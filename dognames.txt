@@ -1,0 +1,9 @@
+chihuahua
+japanese chin
+maltese dog
+pekinese
+shih tzu
+blenheim spaniel
+papillon
+toy terrier
+...
