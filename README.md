@@ -47,12 +47,15 @@ Arguments:
 --arch → CNN model architecture (resnet, alexnet, vgg; default: vgg)
 
 --dogfile → text file with dog names (default: dognames.txt)
-
+```
 Batch Processing
 Run all three models at once:
 
 bash
+```
 sh run_models_batch.sh
+
+```
 Outputs:
 
 resnet_pet-images.txt
@@ -80,7 +83,10 @@ Reasonable runtime compared to ResNet
 You can test with your own images by placing them in uploaded_images/ and running:
 
 bash
+```
 sh run_models_batch_uploaded.sh
+
+```
 This will generate:
 resnet_uploaded-images.txt
 
