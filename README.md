@@ -82,6 +82,35 @@ You can test with your own images by placing them in uploaded_images/ and runnin
 bash
 sh run_models_batch_uploaded.sh
 This will generate:
+resnet_uploaded-images.txt
+
+alexnet_uploaded-images.txt
+
+vgg_uploaded-images.txt
+
+🎯 Learning Objectives Achieved
+Correctly identified dogs vs. not dogs.
+
+Correctly classified dog breeds.
+
+Compared CNN architectures for accuracy and runtime.
+
+Practiced Python programming with command-line arguments, dictionaries, and file handling.
+
+📖 References
+ImageNet Dataset
+
+Argparse Documentation (docs.python.org in Bing)
+
+Python os module (docs.python.org in Bing)
+
+Code
+
+---
+
+This README gives you a professional, portfolio-ready presentation.  
+
+Would you like me to also add a **“Getting Started” section with installation instructions** (like cloning the repo and setting up a virtual environment), so it’s beginner-friendly for anyone who tries your project?
 
 resnet_uploaded-images.txt
 
